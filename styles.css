@@ -1,0 +1,87 @@
+body{
+    margin: 0;
+    
+   
+    
+}
+
+
+.topcontainer{
+    padding-top:100px;
+    background-color: rgb(131, 241, 236);
+    text-align: center;
+}
+
+h1{
+    margin-top: 0;
+    font-family: 'Sacramento', cursive;
+    font-size: 5.625rem;
+    margin:50px 0 auto 0;
+    color: rgb(5, 116, 79);
+    
+}
+h2{
+    font-family: 'Merriweather', serif;
+    color: rgb(14, 165, 115);
+    font-weight: bolder;
+    line-height: 48px;
+    
+
+}
+h3{
+    font-family: 'Merriweather', serif;
+    color: black;
+    font-weight: normal;
+    line-height: 48px;
+
+}
+p{font-family: 'Merriweather', serif;
+    font-size: 2.5rem;
+    color: rgb(14, 165, 115);
+    font-weight: normal;
+}
+
+
+.span{
+    text-decoration: underline;
+}
+.bottomcloud{
+    position: absolute;
+}
+.topcloud{
+    position:absolute;
+    left: 780.667px; 
+   top: 50px;
+}
+.skills{
+    width: 50%;
+    margin: 100px auto 100px auto;
+    text-align: center;
+    
+    
+    
+}
+.container{
+    text-align: center;
+}
+
+.choco{
+    width: 489px;
+    height: 284px;
+}
+.contact-me{
+    
+    background-color: rgb(13, 223, 238);
+    text-align: center;
+    margin: 0 auto 0 auto;
+    width: 10%;
+    padding: 5px;
+}
+.ifyou{
+    text-align: center;
+}
+a{
+    text-decoration-color: brown;
+    text-size-adjust: 5px;
+}
+
